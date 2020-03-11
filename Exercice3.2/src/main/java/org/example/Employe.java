@@ -1,6 +1,6 @@
 package org.example;
 
-public abstract  class Employe {
+public class Employe {
     protected int salaire=1500;
     protected int anciennete;
     public Employe(int anciennete){
